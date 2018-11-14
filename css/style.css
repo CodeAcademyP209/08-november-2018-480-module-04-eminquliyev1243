@@ -1,0 +1,166 @@
+h1 {
+  position: relative;
+  text-align: center;
+}
+h1::after {
+  position: absolute;
+  content: '';
+  top: 54px;
+  left: 47%;
+  background: green;
+  width: 45px;
+  height: 3px;
+}
+
+.elvin {
+  margin-top: 21px;
+  margin: 31px auto;
+  padding: 0px 189px;
+}
+
+#box i {
+  display: inline-block;
+  width: 12%;
+  height: 0%;
+  background: transparent;
+  font-size: 32px;
+  color: green;
+}
+
+.arif {
+  font-size: 20px;
+  padding: 0px -18px 0px 43px;
+  display: inline-block;
+}
+
+.elsad {
+  width: 100px;
+  padding: 52px;
+  vertical-align: middle;
+  border-style: none;
+}
+
+.telefon {
+  float: right;
+  margin: 61px 317px 18px;
+}
+
+.elcin {
+  padding: 57px;
+}
+.elcin .ceyhun {
+  padding: 20px;
+}
+
+.mehemmed {
+  position: relative;
+}
+.mehemmed::after {
+  position: absolute;
+  content: '';
+  top: 58px;
+  left: 48%;
+  background: green;
+  width: 45px;
+  height: 3px;
+}
+
+.eli {
+  position: relative;
+}
+.eli::after {
+  position: absolute;
+  content: '';
+  top: 31px;
+  left: -7%;
+  background: black;
+  width: 45px;
+  height: 3px;
+}
+
+h3 {
+  position: absolute;
+  top: 204px;
+  text-align: center;
+  color: white;
+}
+
+.murat {
+  position: relative;
+}
+.murat::after {
+  position: absolute;
+  content: '';
+  top: 65px;
+  left: 43%;
+  background: green;
+  width: 45px;
+  height: 3px;
+}
+
+img:hover {
+  opacity: 0.8;
+}
+
+button {
+  width: 110px;
+  height: 25px;
+  background: #1ea51e;
+  text-align: center;
+  position: relative;
+  left: 46%;
+  margin-top: 20px;
+  border-color: none;
+  border: none;
+  transition: all .5s ease;
+}
+button:hover {
+  background: #1ea51e;
+  transition: all .5s ease;
+}
+
+.col-md-4 {
+  padding-top: 4%;
+}
+
+.salam {
+  width: 123px;
+  height: 39px;
+  background: #1ea51e;
+  text-align: center;
+  position: relative;
+  left: 46%;
+  margin-top: 20px;
+  border-color: none;
+  border: none;
+  transition: all .5s ease;
+}
+
+.ceyhun {
+  margin-top: 196px;
+}
+
+.murat {
+  position: relative;
+  top: 133px;
+}
+
+#about {
+  background: #f2f4fa;
+}
+
+#iphone {
+  background: #f2f4fa;
+}
+
+.col-md-12 {
+  flex: 0 0 100%;
+  max-width: 100%;
+  top: -12px;
+}
+
+.taley {
+  position: relative;
+  text-align: center;
+  top: 25px;
+}
